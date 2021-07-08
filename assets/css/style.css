@@ -40,7 +40,7 @@ li {
 /* start added main to fix styling */
 main {
   display: flex;
-  margin: 0px 0px 50px 0px;
+  margin: 0px 0px 50px 20px;
 }
 /* end added main to fix styling */
 form {
